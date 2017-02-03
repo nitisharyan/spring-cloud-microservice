@@ -28,3 +28,7 @@ java -jar zipkin-web-1.28.1-20160104.090947-7-all.jar
      -zipkin.web.port=localhost:9401 
      -zipkin.web.rootUrl=/ 
      -zipkin.web.query.dest=localhost:9411
+
+------------------------------------------------------------------------------------------------------
+
+http://www.slideshare.net/MarcinGrzejszczak/microservices-tracing-with-spring-cloud-and-zipkin-61942031
